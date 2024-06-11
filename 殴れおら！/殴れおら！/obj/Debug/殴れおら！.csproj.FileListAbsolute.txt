@@ -1,0 +1,13 @@
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\bin\Debug\殴れおら！.exe.config
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\bin\Debug\殴れおら！.exe
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\bin\Debug\殴れおら！.pdb
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら！.csproj.AssemblyReference.cache
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら_.Form1.resources
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら_.Form2.resources
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら_.Properties.Resources.resources
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら！.csproj.GenerateResource.cache
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら！.csproj.CoreCompileInputs.cache
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら！.exe
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら！.pdb
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら_.Form3.resources
+C:\Users\haarr\nagureora\殴れおら！\殴れおら！\obj\Debug\殴れおら_.Form4.resources
